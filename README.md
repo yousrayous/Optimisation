@@ -65,9 +65,9 @@ Optimizers : FTRL, Adam, Adagrad, SGD
    python -m venv env
    source env/bin/activate  # Windows: env\Scripts\activate
 3.Install dependencies.
-```bash
-pip install -r requirements.txt
- This will install all the required libraries such as:
+  ```bash
+  pip install -r requirements.txt
+This will install all the required libraries such as:
 pandas
 numpy
 matplotlib
@@ -76,7 +76,7 @@ tensorflow
 torch
 torch-optimizer
 4.Launch the Jupyter Notebook
-```bash
-jupyter notebook projetoptimisation.ipynb
+  ```bash
+  jupyter notebook projetoptimisation.ipynb
 
 
